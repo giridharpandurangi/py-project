@@ -112,6 +112,7 @@ button.grid(row=6,column=1, sticky="news", padx=50,pady=20)
 
 for widget in user_info_frame.winfo_children():
     widget.grid_configure(padx=10, pady=5)
+#new line
 
 
 
